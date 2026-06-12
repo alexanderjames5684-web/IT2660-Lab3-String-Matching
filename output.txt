@@ -1,0 +1,4 @@
+Best-case elapsed time: 4077 nanoseconds
+best-case input matched at index 0
+Worst-case elapsed time: 6200 nanoseconds
+worst-case input matched at index 33
